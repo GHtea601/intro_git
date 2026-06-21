@@ -7,4 +7,4 @@
 ・git diff
 ・git config
 ・git merge
-・コンフリクト
+・conflict
