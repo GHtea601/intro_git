@@ -7,4 +7,5 @@
 ・git diff
 ・git config
 ・git merge
-
+・conflict
+・pull request
