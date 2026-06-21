@@ -6,4 +6,5 @@
 ・git status
 ・git diff
 ・git config
+・git merge
 
